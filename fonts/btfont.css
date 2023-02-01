@@ -4,7 +4,7 @@ font-family: 'BT Curve';
 font-style: normal;
 font-weight: 400;
 font-display: swap;
-src: url(https://ui.score-dev.bt.com/fonts/BTCurve_Rg/BTCurve_Rg.ttf) format('truetype');
+src: url(https://shatranjkekhiladi.github.io/fonts/BTCurve_Rg/BTCurve_Rg.ttf) format('truetype');
 }
 
 /* BT Curve Regular Italics */
@@ -13,7 +13,7 @@ font-family: 'BT Curve';
 font-style: italic;
 font-weight: 400;
 font-display: swap;
-src: url(https://ui.score-dev.bt.com/fonts/BTCurve_Rg/BTCurve_It.ttf) format('truetype');
+src: url(https://shatranjkekhiladi.github.io/fonts/BTCurve_Rg/BTCurve_It.ttf) format('truetype');
 }
 
 /* BT Curve Bold */
@@ -22,7 +22,7 @@ font-family: 'BT Curve';
 font-style: normal;
 font-weight: 700;
 font-display: swap;
-src: url(https://ui.score-dev.bt.com/fonts/BTCurve_Rg/BTCurve_Bd.ttf) format('truetype');
+src: url(https://shatranjkekhiladi.github.io/fonts/BTCurve_Rg/BTCurve_Bd.ttf) format('truetype');
 }
 
 /* BT Curve Bold Italic */
@@ -31,7 +31,7 @@ font-family: 'BT Curve';
 font-style: italic;
 font-weight: 700;
 font-display: swap;
-src: url(https://ui.score-dev.bt.com/fonts/BTCurve_Rg/BTCurve_BdIt.ttf) format('truetype');
+src: url(https://shatranjkekhiladi.github.io/fonts/BTCurve_Rg/BTCurve_BdIt.ttf) format('truetype');
 }
 
 /* BT Curve Bold Italic */
@@ -40,6 +40,6 @@ font-family: 'BT Group';
 font-style: normal;
 font-weight: 400;
 font-display: swap;
-src: url(https://ui.score-dev.bt.com/fonts/BTGroup_Headline_V1/BTGroup_V1.000/App/BTGroup_A_Headline.ttf) format('truetype');
+src: url(https://shatranjkekhiladi.github.io/fonts/BTGroup_Headline_V1/BTGroup_Headline.ttf) format('truetype');
 }
 
