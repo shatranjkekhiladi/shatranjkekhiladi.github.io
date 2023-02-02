@@ -6,3 +6,12 @@ font-weight: 400;
 font-display: swap;
 src: url(https://shatranjkekhiladi.github.io/fonts/BTGroup_Headline_V1/BTGroup_Headline.ttf) format('truetype');
 }
+
+/* BT Group Bold */
+@font-face {
+font-family: 'BT Group';
+font-style: normal;
+font-weight: 700;
+font-display: swap;
+src: url(https://shatranjkekhiladi.github.io/fonts/BTGroup_Headline_V1/BTGroup_Headline.ttf) format('truetype');
+}
